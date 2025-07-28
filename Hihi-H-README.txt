@@ -5,7 +5,7 @@ This repository contains materials for Task 1 of STATS 399. The task involves cl
 
 ## Files
 - 'Hihi-H-CleanData.csv': Cleaned data file.
-- `Hihi-A-Code.Rmd`: R Markdown source file for analysis and report generation.
+- `Hihi-H-Code.Rmd`: R Markdown source file for analysis and report generation.
 - 'Hihi-H-Graphic.pdf':Visual graphic
 ## Requirements
 Ensure that the following R packages are installed before running the code:
