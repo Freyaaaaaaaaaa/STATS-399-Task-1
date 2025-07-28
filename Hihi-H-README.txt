@@ -5,6 +5,7 @@ This repository contains materials for Task 1 of STATS 399. The task involves cl
 
 ## Files
 - `sentiment-survey-data.csv`: Original raw data file.
+- 'cleaned_sentiment_data.csv': Cleaned data file.
 - `Hihi-A-Code.Rmd`: R Markdown source file for analysis and report generation.
 - 'Hihi-H-Graphic.pdf':Visual graphic
 ## Requirements
